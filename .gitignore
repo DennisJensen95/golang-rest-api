@@ -1,1 +1,4 @@
 bin/
+
+# Unit testing
+coverage.out
